@@ -7,7 +7,7 @@ Jupyter nb for exploring linkedin connections data.
 * Are there time-dependent trends? (e.g., more connections made in a certain year/ time of the year)
 
 ## Getting Started
-Follow instructions [here]([url](https://www.linkedin.com/help/linkedin/answer/a566336/export-connections-from-linkedin)) for obtaining your data
+Follow instructions [**here**]([url](https://www.linkedin.com/help/linkedin/answer/a566336/export-connections-from-linkedin)) for obtaining your data
 
 ### Dependencies
 * pygbwalker
